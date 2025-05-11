@@ -85,6 +85,69 @@
         "title": "Resume Builder",
         "techStack": "Vue 3 · Node.js · Element UI",
         "type": "personal"
+      },
+      {
+        "img": "/assets/projects/netflix.png",
+        "code": "https://github.com/MeezaanD/zaio-netflix",
+        "liveLink": "https://meezaan-zaio-net.netlify.app/",
+        "description": "A clone of Netflix Landing Page",
+        "title": "Netflix",
+        "techStack": "HTML · Css",
+        "type": "zaio"
+      },
+      {
+        "img": "/assets/projects/tesla.png",
+        "code": "https://github.com/MeezaanD/zaio-tesla",
+        "liveLink": "https://meezaan-zaio-tesla.netlify.app/",
+        "description": "A clone of tesla landing page",
+        "title": "Tesla",
+        "techStack": "HTML · Css",
+        "type": "zaio"
+      },
+      {
+        "img": "/assets/projects/keep.png",
+        "code": "https://github.com/MeezaanD/zaio-react-keep-clone",
+        "liveLink": "https://zaio-react-keep-clone.vercel.app/",
+        "description": "A clone of the google Keep landing page",
+        "title": "Google Keep",
+        "techStack": "React · Javascript · Css",
+        "type": "zaio"
+      },
+      {
+        "img": "/assets/projects/twitter.png",
+        "code": "https://github.com/MeezaanD/zaio-twitter",
+        "liveLink": "https://meezaan-zaio-twitter.netlify.app/",
+        "description": "A clone of the Twitter / X landing page",
+        "title": "X / Twitter",
+        "techStack": "HTML · Css",
+        "type": "zaio"
+      },
+      {
+        "img": "/assets/projects/youtube.png",
+        "code": "https://github.com/MeezaanD/zaio-youtube-clone",
+        "liveLink": "https://meezaan-zaio-youtube.netlify.app/",
+        "description": "A clone of the Youtube landing page",
+        "title": "Youtube",
+        "techStack": "HTML · Javascript · Css",
+        "type": "zaio"
+      },
+      {
+        "img": "/assets/projects/amazon.png",
+        "code": "https://github.com/MeezaanD/zaio-amazon-clone",
+        "liveLink": "https://zaio--clone-1f5bd.web.app/",
+        "description": "A clone of the Amazon ecommerce website",
+        "title": "Amazon",
+        "techStack": "React · Javascript · Firebase",
+        "type": "zaio"
+      },
+      {
+        "img": "/assets/projects/instagram.png",
+        "code": "https://github.com/MeezaanD/zaio-instagram-clone",
+        "liveLink": "https://meezaan-zaio-insta.netlify.app/",
+        "description": "A clone of the Instagram landing page",
+        "title": "Instagram",
+        "techStack": "HTML · Javascript · Css · Firebase",
+        "type": "zaio"
       }
     ]
   }
