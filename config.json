@@ -36,7 +36,7 @@
       {
         "title": "Flash Components CC",
         "description": "Web Developer",
-        "date": "December 2024 - Present",
+        "date": "December 2024 - May 2025",
         "url": "https://flash.za.com/"
       }
     ],
@@ -70,7 +70,7 @@
       },
       {
         "img": "/assets/projects/az-comms.png",
-        "code": "https://github.com/MeezaanD/resume-builder",
+        "code": "https://github.com/MeezaanD/az-comms-services",
         "liveLink": "https://az-comms-services.vercel.app/",
         "description": "Freelance project web application developed for a client to manage their self employed business",
         "title": "AZ Comms & Services",
