@@ -148,6 +148,15 @@
         "title": "Instagram",
         "techStack": "HTML · Javascript · Css · Firebase",
         "type": "zaio"
+      },
+      {
+        "img": "/assets/projects/airbnb.png",
+        "code": "https://github.com/MeezaanD/zaio-airbnb",
+        "liveLink": "https://zaio-airbnb.vercel.app/",
+        "description": "This project is a full-stack Airbnb clone built during the Zaio Bootcamp. It replicates core functionalities of the Airbnb platform, such as accommodation browsing, detailed listing views, host dashboards, user login systems, and reservation bookings.",
+        "title": "Airbnb",
+        "techStack": "React · Javascript · Node Js · Express Js · Mongodb",
+        "type": "zaio"
       }
     ]
   }
