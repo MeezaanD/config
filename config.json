@@ -42,12 +42,12 @@
     ],
     "projects": [
       {
-        "img": "/assets/projects/ET-preview.png",
-        "code": "https://github.com/MeezaanD/MD-Tracker.git",
-        "liveLink": "https://my-etracker.netlify.app/",
-        "description": "E-Tracker is a versatile mobile web app designed to empower users with efficient and user-friendly budget management tools...",
-        "title": "E-Tracker",
-        "techStack": "Vue · Typescript · Bootstrap",
+        "img": "/assets/projects/cashflow.png",
+        "code": "https://github.com/MeezaanD/cash-flow",
+        "liveLink": "https://cash-flow-ebon.vercel.app/",
+        "description": "A personal finance tracker app that helps users manage, log, and track their transactions with real-time updates and secure authentication via Firebase.",
+        "title": "Cash Flow",
+        "techStack": "React · Typescript · Firebase",
         "type": "personal"
       },
       {
