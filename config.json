@@ -60,15 +60,6 @@
         "type": "personal"
       },
       {
-        "img": "/assets/projects/az-comms.png",
-        "code": "https://github.com/MeezaanD/az-comms-services",
-        "liveLink": "https://azcommunications.co.za/",
-        "description": "Freelance project web application developed for a client to manage their self employed business",
-        "title": "AZ Communications",
-        "techStack": "Wordpress · SEO",
-        "type": "freelance"
-      },
-      {
         "img": "/assets/projects/amazon.png",
         "code": "https://github.com/MeezaanD/zaio-amazon-clone",
         "liveLink": "https://zaio--clone-1f5bd.web.app/",
