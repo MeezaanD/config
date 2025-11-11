@@ -1,29 +1,4 @@
 {
-  "biography": "I'm Meezaan Davids, a committed software developer with a genuine enthusiasm for solving tough problems through creative solutions. Explore my portfolio to see the wide array of projects that highlight my skills in various areas. I'm always eager to learn and keep up with the latest developments in software and web technology.",
-  "skills": [
-    "GITHUB",
-    "DOCKER",
-    "FIGMA",
-    "HTML",
-    "CSS",
-    "JQUERY",
-    "JAVASCRIPT",
-    "TYPESCRIPT",
-    "VUE",
-    "REACT",
-    "NODE",
-    "EXPRESS",
-    "LARAVEL",
-    "IONIC",
-    "PYTHON",
-    "PHP",
-    "RUBY",
-    "MYSQL",
-    "POSTGRESQL",
-    "WORDPRESS",
-    "FLUTTER",
-    "FIREBASE"
-  ],
   "experience": [
     {
       "company": "IT Academy",
