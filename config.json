@@ -54,6 +54,15 @@
       "type": "personal"
     },
     {
+      "img": "/assets/projects/keepittogether.png",
+      "code": "https://github.com/MeezaanD/keepittogether",
+      "liveLink": "https://keepittogether.vercel.app/",
+      "description": "Learning platform with advance note taking system, for me to learn generate with ai, and keep all my resources in one place.",
+      "title": "Keep It Together",
+      "techStack": "Nuxt · Vue · Typescript · Firebase (Firestore) · Element Plus",
+      "type": "personal"
+    },
+    {
       "img": "/assets/projects/tm2.png",
       "code": "https://github.com/MeezaanD/tenant-management",
       "liveLink": "https://tenant-management.vercel.app/",
