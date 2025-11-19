@@ -45,7 +45,6 @@
   ],
   "projects": [
     {
-      "img": "/assets/projects/cashflow.png",
       "code": "https://github.com/MeezaanD/cash-flow",
       "liveLink": "https://cash-flow-ebon.vercel.app/",
       "description": "A personal finance tracker app that helps users manage, log, and track their transactions with real-time updates and secure authentication via Firebase.",
@@ -54,7 +53,6 @@
       "type": "personal"
     },
     {
-      "img": "/assets/projects/keepittogether.png",
       "code": "https://github.com/MeezaanD/keepittogether",
       "liveLink": "https://keepittogether.vercel.app/",
       "description": "Learning platform with advance note taking system, for me to learn generate with ai, and keep all my resources in one place.",
@@ -63,7 +61,6 @@
       "type": "personal"
     },
     {
-      "img": "/assets/projects/tm2.png",
       "code": "https://github.com/MeezaanD/tenant-management",
       "liveLink": "https://tenant-management.vercel.app/",
       "description": "This project is a Tenant Management System designed to make it easy for landlords and tenants to manage payments and user information online.",
@@ -72,7 +69,6 @@
       "type": "personal"
     },
     {
-      "img": "/assets/projects/amazon.png",
       "code": "https://github.com/MeezaanD/zaio-amazon-clone",
       "liveLink": "https://zaio--clone-1f5bd.web.app/",
       "description": "A clone of the Amazon ecommerce website",
@@ -81,7 +77,6 @@
       "type": "zaio"
     },
     {
-      "img": "/assets/projects/airbnb.png",
       "code": "https://github.com/MeezaanD/zaio-airbnb",
       "liveLink": "https://zaio-airbnb.vercel.app/",
       "description": "This project is a full-stack Airbnb clone built during the Zaio Bootcamp. It replicates core functionalities of the Airbnb platform, such as accommodation browsing, detailed listing views, host dashboards, user login systems, and reservation bookings.",
