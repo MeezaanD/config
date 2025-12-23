@@ -53,36 +53,12 @@
       "type": "personal"
     },
     {
-      "code": "https://github.com/MeezaanD/keepittogether",
-      "liveLink": "https://keepittogether.vercel.app/",
-      "description": "Learning platform with advance note taking system, for me to learn generate with ai, and keep all my resources in one place.",
-      "title": "Keep It Together",
-      "techStack": "Nuxt · Vue · Typescript · Firebase (Firestore) · Element Plus",
+      "code": "https://github.com/MeezaanD/nukleus",
+      "liveLink": "",
+      "description": "Desktop prototype for managing notes with CRUD, pinning, and a super-fast global search. Uses IPC for smooth and safe data flow between processes.",
+      "title": "Nukleus",
+      "techStack": "Electron · Vue · Typescript · Bootstrap",
       "type": "personal"
     },
-    {
-      "code": "https://github.com/MeezaanD/tenant-management",
-      "liveLink": "https://tenant-management.vercel.app/",
-      "description": "This project is a Tenant Management System designed to make it easy for landlords and tenants to manage payments and user information online.",
-      "title": "Tenant Management System",
-      "techStack": "Vue · Typescript · Golang · MySQL · Element UI",
-      "type": "personal"
-    },
-    {
-      "code": "https://github.com/MeezaanD/zaio-amazon-clone",
-      "liveLink": "https://zaio--clone-1f5bd.web.app/",
-      "description": "A clone of the Amazon ecommerce website",
-      "title": "Amazon",
-      "techStack": "React · Javascript · Firebase",
-      "type": "zaio"
-    },
-    {
-      "code": "https://github.com/MeezaanD/zaio-airbnb",
-      "liveLink": "https://zaio-airbnb.vercel.app/",
-      "description": "This project is a full-stack Airbnb clone built during the Zaio Bootcamp. It replicates core functionalities of the Airbnb platform, such as accommodation browsing, detailed listing views, host dashboards, user login systems, and reservation bookings.",
-      "title": "Airbnb",
-      "techStack": "React · Javascript · Node Js · Express Js · Mongodb",
-      "type": "zaio"
-    }
   ]
 }
