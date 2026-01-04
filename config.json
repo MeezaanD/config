@@ -51,6 +51,14 @@
 			"title": "Cash Flow",
 			"techStack": "React · Typescript · Firebase",
 			"type": "personal"
+		},
+		{
+			"code": "https://github.com/MeezaanD/excelerator",
+			"liveLink": "https://excelerator.vercel.app/",
+			"description": "Excelerator is a modern, web-based spreadsheet editor that simplifies working with Excel and CSV files. It offers a clean, intuitive browser-based alternative to traditional desktop spreadsheet tools, making it easy to view, edit, and export data without the overhead of launching Excel.",
+			"title": "Excelerator",
+			"techStack": "Nuxt 4 · Vue · Tailwind CSS",
+			"type": "personal"
 		}
 	]
 }
