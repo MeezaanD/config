@@ -49,8 +49,10 @@
 			"liveLink": "https://cash-flow-ebon.vercel.app/",
 			"description": "A personal finance tracker app that helps users manage, log, and track their transactions with real-time updates and secure authentication via Firebase.",
 			"title": "Cash Flow",
-			"techStack": "React · Typescript · Firebase",
-			"type": "personal"
+			"techStack": "React · Typescript · Tailwind CSS · Shadcn UI · Firebase",
+			"type": "personal",
+			"previewImage": "/images/cash-flow-1.png",
+			"additionalImage": "/images/cash-flow-2.png"
 		},
 		{
 			"code": "https://github.com/MeezaanD/excelerator",
@@ -58,7 +60,19 @@
 			"description": "Excelerator is a modern, web-based spreadsheet editor that simplifies working with Excel and CSV files. It offers a clean, intuitive browser-based alternative to traditional desktop spreadsheet tools, making it easy to view, edit, and export data without the overhead of launching Excel.",
 			"title": "Excelerator",
 			"techStack": "Nuxt 4 · Vue · Tailwind CSS",
-			"type": "personal"
+			"type": "personal",
+			"previewImage": "/images/excelerator-1.png",
+			"additionalImage": "/images/excelerator-2.png"
+		},
+		{
+			"code": "https://github.com/MeezaanD/BTS",
+			"liveLink": "https://bts-army-saranghae.vercel.app/",
+			"description": "This project celebrates the BTS ARMY community and the long-awaited reunion. The countdown represents the journey fans are taking together as they wait for March 20, 2026.",
+			"title": "BTS Comeback Countdown",
+			"techStack": "React · Typescript · Tailwind CSS",
+			"type": "personal",
+			"previewImage": "/images/BTS-1.png",
+			"additionalImage": "/images/BTS-2.png"
 		}
 	]
 }
